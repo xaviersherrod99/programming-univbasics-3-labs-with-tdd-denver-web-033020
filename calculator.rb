@@ -1,3 +1,5 @@
 first_number = 2
 second_number =4
-wow = first_number + second_number
+
+first_number= number_one
+s
